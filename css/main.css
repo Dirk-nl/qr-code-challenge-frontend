@@ -1,0 +1,25 @@
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D9DBF1
+}
+
+.qrbox {
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: white;
+    border: white dotted 2px;
+}
+
+.image {
+    width: 280px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+h2, p {
+    text-align: center;
+}
